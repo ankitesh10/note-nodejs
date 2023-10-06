@@ -1,0 +1,17 @@
+{
+  "notes": [
+    {
+      "tags": [],
+      "id": 1696227663386,
+      "content": "Testing 101"
+    },
+    {
+      "tags": [
+        "test1",
+        " test2"
+      ],
+      "id": 1696426671920,
+      "content": "My first notes"
+    }
+  ]
+}
